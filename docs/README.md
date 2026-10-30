@@ -1,3 +1,3 @@
-# The Xixi Times
-
-The Xixi Times daily HTML; open latest.html
+The Xixi Times — GitHub Pages docs/
+Source: main branch /docs
+Latest: latest.html
